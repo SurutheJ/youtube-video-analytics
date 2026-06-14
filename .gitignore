@@ -1,0 +1,20 @@
+# R
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+.Rproj.user/
+
+# R Markdown knit output
+*.html
+*.docx
+*_cache/
+*_files/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets
+.env
+credentials.json
